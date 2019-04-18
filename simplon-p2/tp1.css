@@ -1,0 +1,60 @@
+.tete
+{
+background-color: #3b5998;
+width: 100%;
+height: 80px;
+}
+.corpsright{
+	color: black;
+	font-family: Arial;
+	font-size: 18px;
+	width: 85%;
+	float: right;
+}
+.coprsleft{
+	float: left;
+	font-family: Arial;
+	color: #3b5998;
+	margin-left: 5%
+}
+.contenu{
+	color: white
+	font-family: Arial;
+	font-size: 16px
+	width:50%;
+	height: 100%;
+	float: right;
+}
+.logo{
+	width: 30%;
+	height: 100%
+	float: left;
+margin-left: 3%
+}
+.p{
+	font-size: 16px;
+	font-family:Arial;
+	width: 80%;
+	height: 100%;
+}
+.lien{
+	font-size: 10px;
+}
+.select{
+	width: 60px;
+	height: 40px;
+}
+.cage{
+	width: 55%;
+	height: 100%;
+}
+.connex{
+	width: 87%;
+	height: 100%;
+	font-weight: 13px;
+	background-color: blue;
+	color:green;
+box-decoration-break: none; 
+
+
+
